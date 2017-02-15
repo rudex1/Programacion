@@ -3,7 +3,9 @@
 curso de programcion en java.
 
 #eclipse
-[!http://www.eclipse.org/neon/
+
+[![ Downloads](http://www.eclipse.org/neon/)
+
 herramientas usados para el desarrollo y ejcucion de pruebas, bajo la aplicacion de eclipse
 aprender los conceptos básicos del lenguaje orientado a objetos JAVA.
 
@@ -17,9 +19,9 @@ Una vez instalados, abrimos el eclipse y creamos un nuevo proyecto java; Hola Mu
 
 En la carpeta source se crea una clase HolaMundo como especificamos a continuación;
 
-#public class HolaMundo {
-#	public static void main(String[] args) {
-#		System.out.println("Hola Mundo");
-#		System.out.println("Hola Edu");
-#	}
-#}
+public class HolaMundo {
+	public static void main(String[] args) {
+		System.out.println("Hola Mundo");
+		System.out.println("Hola Edu");
+	}
+}
