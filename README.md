@@ -14,9 +14,9 @@ Una vez instalados, abrimos el eclipse y creamos un nuevo proyecto java; Hola Mu
 
 En la carpeta source se crea una clase HolaMundo como especificamos a continuación;
 
-public class HolaMundo {
-	public static void main(String[] args) {
-		System.out.println("Hola Mundo");
-		System.out.println("Hola Edu");
-	}
-}
+#public class HolaMundo {
+#	public static void main(String[] args) {
+#		System.out.println("Hola Mundo");
+#		System.out.println("Hola Edu");
+#	}
+#}
